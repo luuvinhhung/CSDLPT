@@ -1,0 +1,947 @@
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Reports\CrystalReportBangDiem.rpt
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Reports\CrystalReportBangDiem.cs
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.exe.config
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.exe
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.pdb
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.Reports.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\FlashControlV71.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Persistent.Base.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\stdole.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.Xpo.v15.1.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.Reports.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Persistent.Base.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.Xpo.v15.1.xml
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.ExpressApp.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.csprojResolveAssemblyReference.cache
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.frmMain.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmBackupRestore.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmBangDiem.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDangKy.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDangNhap.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDoiMatKhau.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmGiaoVien.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmKetQuaThi.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmMonHoc.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmNhapDeThi.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmSinhVien.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmGVDangKyDeThi.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmThiTracNghiem.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmThongTinThi.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemGiaoVien.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemMonHoc.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemSinhVien.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.Properties.Resources.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.Reports.frmReportBangDiem.resources
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.csproj.GenerateResource.Cache
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.exe.licenses
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.exe
+C:\Users\Ken Tong\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.pdb
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.exe.config
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Reports\CrystalReportBangDiem.rpt
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\Reports\CrystalReportBangDiem.cs
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.exe
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.pdb
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.Reports.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\FlashControlV71.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Persistent.Base.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\stdole.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.ExpressApp.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.ExpressApp.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.ExpressApp.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.ExpressApp.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.csprojResolveAssemblyReference.cache
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.frmMain.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmBackupRestore.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmBangDiem.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDangKy.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDangNhap.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDoiMatKhau.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmGiaoVien.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmKetQuaThi.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmMonHoc.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmNhapDeThi.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmSinhVien.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmGVDangKyDeThi.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmThiTracNghiem.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmThongTinThi.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemGiaoVien.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemMonHoc.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemSinhVien.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.Properties.Resources.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.Reports.frmReportBangDiem.resources
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.csproj.GenerateResource.Cache
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.exe.licenses
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.exe
+C:\Users\HP4540s\Documents\Visual Studio 2015\Projects\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.pdb
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.csprojResolveAssemblyReference.cache
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.frmMain.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmBackupRestore.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmBangDiem.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDangKy.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDangNhap.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDoiMatKhau.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmGiaoVien.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmKetQuaThi.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmMonHoc.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmNhapDeThi.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmSinhVien.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmGVDangKyDeThi.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmThongTinThi.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemGiaoVien.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemMonHoc.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemSinhVien.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.Properties.Resources.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.Reports.frmReportBangDiem.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.csproj.GenerateResource.Cache
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.exe.licenses
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.exe.config
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\Reports\CrystalReportBangDiem.rpt
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\Reports\CrystalReportBangDiem.cs
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.exe
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.pdb
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.Shared.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.Reports.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\FlashControlV71.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Persistent.Base.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ShockwaveFlashObjects.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\stdole.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.SqlServer.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.ExpressApp.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.ExpressApp.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.ExpressApp.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.ExpressApp.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmTRACNGHIEM.resources
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.exe
+D:\Soft\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.pdb
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\Reports\CrystalReportBangDiem.rpt
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\Reports\CrystalReportBangDiem.cs
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.exe.config
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.exe
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\PTITTracNghiem.pdb
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.Reports.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Persistent.Base.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\stdole.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.Reports.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.ExpressApp.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Persistent.Base.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.ExpressApp.Reports.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.ExpressApp.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.ExpressApp.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.ExpressApp.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.ExpressApp.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.csprojResolveAssemblyReference.cache
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.frmMain.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmBackupRestore.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmBangDiem.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDangKy.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDangNhap.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmDoiMatKhau.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmGiaoVien.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmKetQuaThi.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmMonHoc.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmNhapDeThi.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmSinhVien.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmGVDangKyDeThi.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmTRACNGHIEM.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.frmThongTinThi.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemGiaoVien.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemMonHoc.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.GiaoDien.SubForm.Frm_ThemSinhVien.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.Properties.Resources.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.Reports.frmReportBangDiem.resources
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.csproj.GenerateResource.Cache
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.exe.licenses
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.csproj.CoreCompileInputs.cache
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.exe
+C:\Users\phant\Desktop\CSDL Phân tán\PTITTracNghiem\PTITTracNghiem\obj\Debug\PTITTracNghiem.pdb

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TRACNGHIEMModelStoreContainer" CdmEntityContainer="TRACNGHIEMEntities">
+    <EntitySetMapping Name="BangDiems">
+      <EntityTypeMapping TypeName="TRACNGHIEMModel.BangDiem">
+        <MappingFragment StoreEntitySet="BangDiem">
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+          <ScalarProperty Name="MAMH" ColumnName="MAMH" />
+          <ScalarProperty Name="LAN" ColumnName="LAN" />
+          <ScalarProperty Name="NGAYTHI" ColumnName="NGAYTHI" />
+          <ScalarProperty Name="DIEM" ColumnName="DIEM" />
+          <ScalarProperty Name="BAITHI" ColumnName="BAITHI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BoDes">
+      <EntityTypeMapping TypeName="TRACNGHIEMModel.BoDe">
+        <MappingFragment StoreEntitySet="BoDe">
+          <ScalarProperty Name="CAUHOI" ColumnName="CAUHOI" />
+          <ScalarProperty Name="MAMH" ColumnName="MAMH" />
+          <ScalarProperty Name="TRINHDO" ColumnName="TRINHDO" />
+          <ScalarProperty Name="NOIDUNG" ColumnName="NOIDUNG" />
+          <ScalarProperty Name="A" ColumnName="A" />
+          <ScalarProperty Name="B" ColumnName="B" />
+          <ScalarProperty Name="C" ColumnName="C" />
+          <ScalarProperty Name="D" ColumnName="D" />
+          <ScalarProperty Name="DAP_AN" ColumnName="DAP_AN" />
+          <ScalarProperty Name="MAGV" ColumnName="MAGV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GiaoViens">
+      <EntityTypeMapping TypeName="TRACNGHIEMModel.GiaoVien">
+        <MappingFragment StoreEntitySet="GiaoVien">
+          <ScalarProperty Name="MAGV" ColumnName="MAGV" />
+          <ScalarProperty Name="HO" ColumnName="HO" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="SODTLL" ColumnName="SODTLL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GVDangKies">
+      <EntityTypeMapping TypeName="TRACNGHIEMModel.GVDangKy">
+        <MappingFragment StoreEntitySet="GVDangKy">
+          <ScalarProperty Name="MAGV" ColumnName="MAGV" />
+          <ScalarProperty Name="MAMH" ColumnName="MAMH" />
+          <ScalarProperty Name="MALOP" ColumnName="MALOP" />
+          <ScalarProperty Name="TRINHDO" ColumnName="TRINHDO" />
+          <ScalarProperty Name="NGAYTHI" ColumnName="NGAYTHI" />
+          <ScalarProperty Name="LAN" ColumnName="LAN" />
+          <ScalarProperty Name="SOCAUTHI" ColumnName="SOCAUTHI" />
+          <ScalarProperty Name="THOIGIAN" ColumnName="THOIGIAN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lops">
+      <EntityTypeMapping TypeName="TRACNGHIEMModel.Lop">
+        <MappingFragment StoreEntitySet="Lop">
+          <ScalarProperty Name="MALOP" ColumnName="MALOP" />
+          <ScalarProperty Name="TENLOP" ColumnName="TENLOP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MonHocs">
+      <EntityTypeMapping TypeName="TRACNGHIEMModel.MonHoc">
+        <MappingFragment StoreEntitySet="MonHoc">
+          <ScalarProperty Name="MAMH" ColumnName="MAMH" />
+          <ScalarProperty Name="TENMH" ColumnName="TENMH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SinhViens">
+      <EntityTypeMapping TypeName="TRACNGHIEMModel.SinhVien">
+        <MappingFragment StoreEntitySet="SinhVien">
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+          <ScalarProperty Name="HO" ColumnName="HO" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="MALOP" ColumnName="MALOP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="SP_DSLOGIN" FunctionName="TRACNGHIEMModel.Store.SP_DSLOGIN">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TRACNGHIEMModel.SP_DSLOGIN_Result">
+          <ScalarProperty Name="MANV" ColumnName="MANV" />
+          <ScalarProperty Name="Loginname" ColumnName="Loginname" />
+          <ScalarProperty Name="rolename" ColumnName="rolename" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_DSSV_LOP" FunctionName="TRACNGHIEMModel.Store.SP_DSSV_LOP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TRACNGHIEMModel.SP_DSSV_LOP_Result">
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+          <ScalarProperty Name="HO" ColumnName="HO" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="MALOP" ColumnName="MALOP" />
+          <ScalarProperty Name="TENLOP" ColumnName="TENLOP" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_STT_BACKUP" FunctionName="TRACNGHIEMModel.Store.SP_STT_BACKUP">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TRACNGHIEMModel.SP_STT_BACKUP_Result">
+          <ScalarProperty Name="position" ColumnName="position" />
+          <ScalarProperty Name="backup_start_date" ColumnName="backup_start_date" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_TAOTAIKHOAN" FunctionName="TRACNGHIEMModel.Store.SP_TAOTAIKHOAN" />
+    <FunctionImportMapping FunctionImportName="SP_TENGV" FunctionName="TRACNGHIEMModel.Store.SP_TENGV">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TRACNGHIEMModel.SP_TENGV_Result">
+          <ScalarProperty Name="HOTEN" ColumnName="HOTEN" />
+          <ScalarProperty Name="MAGV" ColumnName="MAGV" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SP_TENSV" FunctionName="TRACNGHIEMModel.Store.SP_TENSV">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TRACNGHIEMModel.SP_TENSV_Result">
+          <ScalarProperty Name="HOTEN" ColumnName="HOTEN" />
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

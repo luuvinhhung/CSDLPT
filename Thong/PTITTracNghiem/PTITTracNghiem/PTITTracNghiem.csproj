@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{61CE1AE6-5DE9-43D0-B358-6C9E5BD3C382}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PTITTracNghiem</RootNamespace>
+    <AssemblyName>PTITTracNghiem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.BonusSkins.v17.1" />
+    <Reference Include="DevExpress.Charts.v17.1.Core, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v17.1" />
+    <Reference Include="DevExpress.ExpressApp.Reports.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v17.1.Core, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v17.1.Core, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v17.1.Core" />
+    <Reference Include="DevExpress.RichEdit.v17.1.Export" />
+    <Reference Include="DevExpress.Printing.v17.1.Core" />
+    <Reference Include="DevExpress.RichEdit.v17.1.Core, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.1" />
+    <Reference Include="DevExpress.Utils.v17.1.UI, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v17.1" />
+    <Reference Include="DevExpress.Sparkline.v17.1.Core" />
+    <Reference Include="DevExpress.XtraCharts.v17.1.Wizard, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v17.1" />
+    <Reference Include="DevExpress.XtraGauges.v17.1.Core, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.CodeParser.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.1.Extensions, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfoExtended, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=13.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=13.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppSetting.cs" />
+    <Compile Include="DS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\BANGDIEM.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\BODE.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\COSO.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\CT_BAITHI.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\GIAOVIEN.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\GIAOVIEN_DANGKY.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\KHOA.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\LOP.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\MONHOC.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SINHVIEN.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_DANGNHAP_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_DSLOGIN_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_DSSV_LOP_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_LAYCAUHOI_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_REPORTBANGDIEM_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_STTBACKUP_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_TENGV_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_TENSV_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_TIMSINHVIEN_MALOP_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\SP_TIMSINHVIEN_MASV_Result.cs">
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\TracNghiem.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TracNghiem.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\TracNghiem.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TracNghiem.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DuLieu\TracNghiem.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TracNghiem.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="getInfo.cs" />
+    <Compile Include="GiaoDien\frmBackupRestore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmBackupRestore.Designer.cs">
+      <DependentUpon>frmBackupRestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmBangDiem.Designer.cs">
+      <DependentUpon>frmBangDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmDangKy.Designer.cs">
+      <DependentUpon>frmDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmDoiMatKhau.Designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmGiaoVien.Designer.cs">
+      <DependentUpon>frmGiaoVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmKetQuaThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmKetQuaThi.Designer.cs">
+      <DependentUpon>frmKetQuaThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmMonHoc.Designer.cs">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmNhapDeThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmNhapDeThi.Designer.cs">
+      <DependentUpon>frmNhapDeThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmSinhVien.Designer.cs">
+      <DependentUpon>frmSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmGVDangKyDeThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmGVDangKyDeThi.designer.cs">
+      <DependentUpon>frmGVDangKyDeThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmThiTracNghiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmThiTracNghiem.Designer.cs">
+      <DependentUpon>frmThiTracNghiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\frmThongTinThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\frmThongTinThi.designer.cs">
+      <DependentUpon>frmThongTinThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\SubForm\Frm_ThemGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\SubForm\Frm_ThemGiaoVien.Designer.cs">
+      <DependentUpon>Frm_ThemGiaoVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\SubForm\Frm_ThemMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\SubForm\Frm_ThemMonHoc.Designer.cs">
+      <DependentUpon>Frm_ThemMonHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDien\SubForm\Frm_ThemSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDien\SubForm\Frm_ThemSinhVien.designer.cs">
+      <DependentUpon>Frm_ThemSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\CrystalReportBangDiem.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportBangDiem.rpt</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\frmReportBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmReportBangDiem.Designer.cs">
+      <DependentUpon>frmReportBangDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Software.cs" />
+    <Compile Include="SqlHelper.cs" />
+    <Compile Include="Thi.cs" />
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmBackupRestore.resx">
+      <DependentUpon>frmBackupRestore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmBangDiem.resx">
+      <DependentUpon>frmBangDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmDangKy.resx">
+      <DependentUpon>frmDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmGiaoVien.resx">
+      <DependentUpon>frmGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmKetQuaThi.resx">
+      <DependentUpon>frmKetQuaThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmMonHoc.resx">
+      <DependentUpon>frmMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmNhapDeThi.resx">
+      <DependentUpon>frmNhapDeThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmSinhVien.resx">
+      <DependentUpon>frmSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmGVDangKyDeThi.resx">
+      <DependentUpon>frmGVDangKyDeThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmThiTracNghiem.resx">
+      <DependentUpon>frmThiTracNghiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\frmThongTinThi.resx">
+      <DependentUpon>frmThongTinThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\SubForm\Frm_ThemGiaoVien.resx">
+      <DependentUpon>Frm_ThemGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\SubForm\Frm_ThemMonHoc.resx">
+      <DependentUpon>Frm_ThemMonHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDien\SubForm\Frm_ThemSinhVien.resx">
+      <DependentUpon>Frm_ThemSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports\CrystalReportBangDiem.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportBangDiem.cs</LastGenOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmReportBangDiem.resx">
+      <DependentUpon>frmReportBangDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <EntityDeploy Include="DuLieu\TracNghiem.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>TracNghiem.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="DS.xsc">
+      <DependentUpon>DS.xsd</DependentUpon>
+    </None>
+    <None Include="DS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS.xss">
+      <DependentUpon>DS.xsd</DependentUpon>
+    </None>
+    <None Include="DuLieu\TracNghiem.edmx.diagram">
+      <DependentUpon>TracNghiem.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.BangDiem.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.BoDe.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.BoDe1.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.GiaoVien.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.GiaoVien1.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.GVDangKy.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.Lop.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.MonHoc.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.MonHoc1.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.SinhVien.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.SinhVien1.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.SP_DSGIAOVIEN_Result.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.SP_REPORTBANGDIEM_Result.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.SP_STTBACKUP_Result.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.XUATGVDANGKY_Result.datasource" />
+    <None Include="Properties\DataSources\PTITTracNghiem.DuLieu.XUATGVDANGKY_Result1.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DuLieu\TracNghiem.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>TracNghiem.edmx</DependentUpon>
+      <LastGenOutput>TracNghiem.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="DuLieu\TracNghiem.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>TracNghiem.edmx</DependentUpon>
+      <LastGenOutput>TracNghiem.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\exams.jpg" />
+    <None Include="Resources\question 32 %281%29.png" />
+    <None Include="Resources\test1.png" />
+    <None Include="Resources\list1.png" />
+    <None Include="Resources\staff 16x16.png" />
+    <None Include="Resources\student %282%29.png" />
+    <None Include="Resources\controls.png" />
+    <None Include="Resources\icon.png" />
+    <None Include="Resources\exam.png" />
+    <None Include="Resources\customer-service1.png" />
+    <Content Include="ThuVien\123.png" />
+    <Content Include="ThuVien\32882-200. 16x16.png" />
+    <Content Include="ThuVien\32v.png" />
+    <Content Include="ThuVien\Add 16x16.png" />
+    <Content Include="ThuVien\asda.png" />
+    <Content Include="ThuVien\ađa.png" />
+    <Content Include="ThuVien\ađa1.png" />
+    <Content Include="ThuVien\back 16x16.png" />
+    <None Include="ThuVien\best-web-design-company-in-india.png" />
+    <Content Include="ThuVien\blog.jpg" />
+    <Content Include="ThuVien\button-on-off.png" />
+    <Content Include="ThuVien\calendar-with-spring-binder-and-date-blocks.png" />
+    <None Include="ThuVien\changepass.png" />
+    <Content Include="ThuVien\check-box.png" />
+    <Content Include="ThuVien\checklist.png" />
+    <Content Include="ThuVien\chevron %281%29.png" />
+    <Content Include="ThuVien\chevron.png" />
+    <Content Include="ThuVien\circular-clock.png" />
+    <Content Include="ThuVien\controls.png" />
+    <Content Include="ThuVien\customer-service.png" />
+    <Content Include="ThuVien\customer-service1.png" />
+    <Content Include="ThuVien\dangnhap.jpg" />
+    <None Include="ThuVien\data_backup-512.png" />
+    <Content Include="ThuVien\DXP_dll_03_10.png" />
+    <Content Include="ThuVien\exam %281%29.png" />
+    <Content Include="ThuVien\exam %281%291.png" />
+    <Content Include="ThuVien\exam.png" />
+    <Content Include="ThuVien\exam1.png" />
+    <Content Include="ThuVien\exam2.png" />
+    <Content Include="ThuVien\exams.jpg" />
+    <None Include="ThuVien\exit.png" />
+    <Content Include="ThuVien\exit.png 32x32.png" />
+    <Content Include="ThuVien\file-submit.png" />
+    <None Include="ThuVien\Hopstarter-Soft-Scraps-Folder-Add.ico" />
+    <None Include="ThuVien\GV.png" />
+    <Content Include="ThuVien\icon.png" />
+    <Content Include="ThuVien\images. 32x32.jpg" />
+    <Content Include="ThuVien\images. 32x321.jpg" />
+    <None Include="ThuVien\images.png" />
+    <Content Include="ThuVien\learning.png" />
+    <Content Include="ThuVien\left-arrow.png" />
+    <Content Include="ThuVien\left-chevron.png" />
+    <Content Include="ThuVien\list %281%29.png" />
+    <Content Include="ThuVien\list.png" />
+    <Content Include="ThuVien\list1.png" />
+    <None Include="ThuVien\login.jpg" />
+    <None Include="ThuVien\login2.jpg" />
+    <None Include="ThuVien\login3.png" />
+    <None Include="ThuVien\Logout-icon.png" />
+    <Content Include="ThuVien\logout.png" />
+    <None Include="ThuVien\monhoc.jpg" />
+    <Content Include="ThuVien\multiple-users-silhouette. 16x16.png" />
+    <None Include="ThuVien\new acc.ico" />
+    <Content Include="ThuVien\password.png" />
+    <Content Include="ThuVien\password1.png" />
+    <Content Include="ThuVien\pencil 16x16.png" />
+    <Content Include="ThuVien\power-button.png" />
+    <Content Include="ThuVien\question 32 %281%29.png" />
+    <Content Include="ThuVien\question.jpg" />
+    <Content Include="ThuVien\question.png" />
+    <Content Include="ThuVien\questions.png" />
+    <Content Include="ThuVien\questions1.png" />
+    <Content Include="ThuVien\questions2.png" />
+    <Content Include="ThuVien\reply-all-button.png" />
+    <None Include="ThuVien\report-icon-14.png" />
+    <Content Include="ThuVien\right-arrow.png" />
+    <Content Include="ThuVien\right-chevron.png" />
+    <Content Include="ThuVien\save-key-icon - Copy.png" />
+    <Content Include="ThuVien\sa_three.jpg" />
+    <Content Include="ThuVien\share.png" />
+    <Content Include="ThuVien\shuffle.png" />
+    <Content Include="ThuVien\staff 16x16.png" />
+    <Content Include="ThuVien\student %282%29.png" />
+    <Content Include="ThuVien\student.png" />
+    <Content Include="ThuVien\student1.png" />
+    <Content Include="ThuVien\student2.png" />
+    <None Include="ThuVien\SV.png" />
+    <Content Include="ThuVien\tap.png" />
+    <Content Include="ThuVien\test %281%29.png" />
+    <Content Include="ThuVien\test.png" />
+    <Content Include="ThuVien\test1.png" />
+    <None Include="ThuVien\tracnghiem.png" />
+    <Content Include="ThuVien\up-arrow.png" />
+    <Content Include="ThuVien\users_add 32x32.png" />
+    <Content Include="ThuVien\verification-of-delivery-list-clipboard-symbol.png" />
+    <Content Include="ThuVien\website.png" />
+    <Content Include="ThuVien\xzczxcc 16x16.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

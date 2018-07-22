@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="THITRACNGHIEMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BANGDIEM">
+    <Key>
+      <PropertyRef Name="MASV" />
+      <PropertyRef Name="MAMH" />
+      <PropertyRef Name="LAN" />
+    </Key>
+    <Property Name="MASV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MAMH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="LAN" Type="Int16" Nullable="false" />
+    <Property Name="NGAYTHI" Type="DateTime" Precision="3" />
+    <Property Name="DIEM" Type="Double" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="MONHOC" Relationship="Self.FK_BANGDIEM_MONHOC" FromRole="BANGDIEM" ToRole="MONHOC" />
+    <NavigationProperty Name="SINHVIEN" Relationship="Self.FK_BANGDIEM_SINHVIEN" FromRole="BANGDIEM" ToRole="SINHVIEN" />
+    <NavigationProperty Name="CT_BAITHI" Relationship="Self.FK_CT_BAITHI_BANGDIEM" FromRole="BANGDIEM" ToRole="CT_BAITHI" />
+  </EntityType>
+  <EntityType Name="BODE">
+    <Key>
+      <PropertyRef Name="CAUHOI" />
+    </Key>
+    <Property Name="CAUHOI" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MAMH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <Property Name="TRINHDO" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="NOIDUNG" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="A" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="B" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="C" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="D" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DAP_AN" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="MAGV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="GIAOVIEN" Relationship="Self.FK_BODE_GIAOVIEN1" FromRole="BODE" ToRole="GIAOVIEN" />
+    <NavigationProperty Name="MONHOC" Relationship="Self.FK_BODE_MONHOC1" FromRole="BODE" ToRole="MONHOC" />
+    <NavigationProperty Name="CT_BAITHI" Relationship="Self.FK_CT_BAITHI_BODE" FromRole="BODE" ToRole="CT_BAITHI" />
+  </EntityType>
+  <EntityType Name="COSO">
+    <Key>
+      <PropertyRef Name="MACS" />
+    </Key>
+    <Property Name="MACS" Type="String" MaxLength="3" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TENCS" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DIACHI" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="KHOAs" Relationship="Self.FK_KHOA_COSO" FromRole="COSO" ToRole="KHOA" />
+  </EntityType>
+  <EntityType Name="CT_BAITHI">
+    <Key>
+      <PropertyRef Name="MASV" />
+      <PropertyRef Name="MAMH" />
+      <PropertyRef Name="LAN" />
+      <PropertyRef Name="CAUHOI" />
+    </Key>
+    <Property Name="MASV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MAMH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="LAN" Type="Int16" Nullable="false" />
+    <Property Name="CAUHOI" Type="Int32" Nullable="false" />
+    <Property Name="SVCHON" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="BANGDIEM" Relationship="Self.FK_CT_BAITHI_BANGDIEM" FromRole="CT_BAITHI" ToRole="BANGDIEM" />
+    <NavigationProperty Name="BODE" Relationship="Self.FK_CT_BAITHI_BODE" FromRole="CT_BAITHI" ToRole="BODE" />
+  </EntityType>
+  <EntityType Name="GIAOVIEN">
+    <Key>
+      <PropertyRef Name="MAGV" />
+    </Key>
+    <Property Name="MAGV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="HO" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="TEN" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="DIACHI" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="MAKH" Type="String" MaxLength="8" FixedLength="true" Unicode="true" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="BODEs" Relationship="Self.FK_BODE_GIAOVIEN1" FromRole="GIAOVIEN" ToRole="BODE" />
+    <NavigationProperty Name="GIAOVIEN_DANGKY" Relationship="Self.FK_GIAOVIEN_DANGKY_GIAOVIEN" FromRole="GIAOVIEN" ToRole="GIAOVIEN_DANGKY" />
+    <NavigationProperty Name="KHOA" Relationship="Self.FK_GIAOVIEN_KHOA" FromRole="GIAOVIEN" ToRole="KHOA" />
+  </EntityType>
+  <EntityType Name="GIAOVIEN_DANGKY">
+    <Key>
+      <PropertyRef Name="MAMH" />
+      <PropertyRef Name="MALOP" />
+      <PropertyRef Name="LAN" />
+    </Key>
+    <Property Name="MAGV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <Property Name="MAMH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MALOP" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TRINHDO" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="NGAYTHI" Type="DateTime" Precision="3" />
+    <Property Name="LAN" Type="Int16" Nullable="false" />
+    <Property Name="SOCAUTHI" Type="Int16" />
+    <Property Name="THOIGIAN" Type="Int16" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="GIAOVIEN" Relationship="Self.FK_GIAOVIEN_DANGKY_GIAOVIEN" FromRole="GIAOVIEN_DANGKY" ToRole="GIAOVIEN" />
+    <NavigationProperty Name="LOP" Relationship="Self.FK_GIAOVIEN_DANGKY_LOP" FromRole="GIAOVIEN_DANGKY" ToRole="LOP" />
+    <NavigationProperty Name="MONHOC" Relationship="Self.FK_GIAOVIEN_DANGKY_MONHOC" FromRole="GIAOVIEN_DANGKY" ToRole="MONHOC" />
+  </EntityType>
+  <EntityType Name="KHOA">
+    <Key>
+      <PropertyRef Name="MAKH" />
+    </Key>
+    <Property Name="MAKH" Type="String" MaxLength="8" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TENKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MACS" Type="String" MaxLength="3" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="COSO" Relationship="Self.FK_KHOA_COSO" FromRole="KHOA" ToRole="COSO" />
+    <NavigationProperty Name="GIAOVIENs" Relationship="Self.FK_GIAOVIEN_KHOA" FromRole="KHOA" ToRole="GIAOVIEN" />
+    <NavigationProperty Name="LOPs" Relationship="Self.FK_LOP_KHOA" FromRole="KHOA" ToRole="LOP" />
+  </EntityType>
+  <EntityType Name="LOP">
+    <Key>
+      <PropertyRef Name="MALOP" />
+    </Key>
+    <Property Name="MALOP" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENLOP" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MAKH" Type="String" MaxLength="8" FixedLength="true" Unicode="true" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="GIAOVIEN_DANGKY" Relationship="Self.FK_GIAOVIEN_DANGKY_LOP" FromRole="LOP" ToRole="GIAOVIEN_DANGKY" />
+    <NavigationProperty Name="KHOA" Relationship="Self.FK_LOP_KHOA" FromRole="LOP" ToRole="KHOA" />
+    <NavigationProperty Name="SINHVIENs" Relationship="Self.FK_SINHVIEN_LOP" FromRole="LOP" ToRole="SINHVIEN" />
+  </EntityType>
+  <EntityType Name="MONHOC">
+    <Key>
+      <PropertyRef Name="MAMH" />
+    </Key>
+    <Property Name="MAMH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENMH" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="BANGDIEMs" Relationship="Self.FK_BANGDIEM_MONHOC" FromRole="MONHOC" ToRole="BANGDIEM" />
+    <NavigationProperty Name="BODEs" Relationship="Self.FK_BODE_MONHOC1" FromRole="MONHOC" ToRole="BODE" />
+    <NavigationProperty Name="GIAOVIEN_DANGKY" Relationship="Self.FK_GIAOVIEN_DANGKY_MONHOC" FromRole="MONHOC" ToRole="GIAOVIEN_DANGKY" />
+  </EntityType>
+  <EntityType Name="SINHVIEN">
+    <Key>
+      <PropertyRef Name="MASV" />
+    </Key>
+    <Property Name="MASV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="HO" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="TEN" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NGAYSINH" Type="DateTime" Precision="3" />
+    <Property Name="DIACHI" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="MALOP" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <Property Name="rowguid" Type="Guid" Nullable="false" />
+    <NavigationProperty Name="BANGDIEMs" Relationship="Self.FK_BANGDIEM_SINHVIEN" FromRole="SINHVIEN" ToRole="BANGDIEM" />
+    <NavigationProperty Name="LOP" Relationship="Self.FK_SINHVIEN_LOP" FromRole="SINHVIEN" ToRole="LOP" />
+  </EntityType>
+  <Association Name="FK_BANGDIEM_MONHOC">
+    <End Role="MONHOC" Type="Self.MONHOC" Multiplicity="1" />
+    <End Role="BANGDIEM" Type="Self.BANGDIEM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MONHOC">
+        <PropertyRef Name="MAMH" />
+      </Principal>
+      <Dependent Role="BANGDIEM">
+        <PropertyRef Name="MAMH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BANGDIEM_SINHVIEN">
+    <End Role="SINHVIEN" Type="Self.SINHVIEN" Multiplicity="1" />
+    <End Role="BANGDIEM" Type="Self.BANGDIEM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SINHVIEN">
+        <PropertyRef Name="MASV" />
+      </Principal>
+      <Dependent Role="BANGDIEM">
+        <PropertyRef Name="MASV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CT_BAITHI_BANGDIEM">
+    <End Role="BANGDIEM" Type="Self.BANGDIEM" Multiplicity="1" />
+    <End Role="CT_BAITHI" Type="Self.CT_BAITHI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BANGDIEM">
+        <PropertyRef Name="MASV" />
+        <PropertyRef Name="MAMH" />
+        <PropertyRef Name="LAN" />
+      </Principal>
+      <Dependent Role="CT_BAITHI">
+        <PropertyRef Name="MASV" />
+        <PropertyRef Name="MAMH" />
+        <PropertyRef Name="LAN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BODE_GIAOVIEN1">
+    <End Role="GIAOVIEN" Type="Self.GIAOVIEN" Multiplicity="0..1" />
+    <End Role="BODE" Type="Self.BODE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GIAOVIEN">
+        <PropertyRef Name="MAGV" />
+      </Principal>
+      <Dependent Role="BODE">
+        <PropertyRef Name="MAGV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BODE_MONHOC1">
+    <End Role="MONHOC" Type="Self.MONHOC" Multiplicity="0..1" />
+    <End Role="BODE" Type="Self.BODE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MONHOC">
+        <PropertyRef Name="MAMH" />
+      </Principal>
+      <Dependent Role="BODE">
+        <PropertyRef Name="MAMH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CT_BAITHI_BODE">
+    <End Role="BODE" Type="Self.BODE" Multiplicity="1" />
+    <End Role="CT_BAITHI" Type="Self.CT_BAITHI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BODE">
+        <PropertyRef Name="CAUHOI" />
+      </Principal>
+      <Dependent Role="CT_BAITHI">
+        <PropertyRef Name="CAUHOI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KHOA_COSO">
+    <End Role="COSO" Type="Self.COSO" Multiplicity="1" />
+    <End Role="KHOA" Type="Self.KHOA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COSO">
+        <PropertyRef Name="MACS" />
+      </Principal>
+      <Dependent Role="KHOA">
+        <PropertyRef Name="MACS" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GIAOVIEN_DANGKY_GIAOVIEN">
+    <End Role="GIAOVIEN" Type="Self.GIAOVIEN" Multiplicity="0..1" />
+    <End Role="GIAOVIEN_DANGKY" Type="Self.GIAOVIEN_DANGKY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GIAOVIEN">
+        <PropertyRef Name="MAGV" />
+      </Principal>
+      <Dependent Role="GIAOVIEN_DANGKY">
+        <PropertyRef Name="MAGV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GIAOVIEN_KHOA">
+    <End Role="KHOA" Type="Self.KHOA" Multiplicity="0..1" />
+    <End Role="GIAOVIEN" Type="Self.GIAOVIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHOA">
+        <PropertyRef Name="MAKH" />
+      </Principal>
+      <Dependent Role="GIAOVIEN">
+        <PropertyRef Name="MAKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GIAOVIEN_DANGKY_LOP">
+    <End Role="LOP" Type="Self.LOP" Multiplicity="1" />
+    <End Role="GIAOVIEN_DANGKY" Type="Self.GIAOVIEN_DANGKY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOP">
+        <PropertyRef Name="MALOP" />
+      </Principal>
+      <Dependent Role="GIAOVIEN_DANGKY">
+        <PropertyRef Name="MALOP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GIAOVIEN_DANGKY_MONHOC">
+    <End Role="MONHOC" Type="Self.MONHOC" Multiplicity="1" />
+    <End Role="GIAOVIEN_DANGKY" Type="Self.GIAOVIEN_DANGKY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MONHOC">
+        <PropertyRef Name="MAMH" />
+      </Principal>
+      <Dependent Role="GIAOVIEN_DANGKY">
+        <PropertyRef Name="MAMH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LOP_KHOA">
+    <End Role="KHOA" Type="Self.KHOA" Multiplicity="0..1" />
+    <End Role="LOP" Type="Self.LOP" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KHOA">
+        <PropertyRef Name="MAKH" />
+      </Principal>
+      <Dependent Role="LOP">
+        <PropertyRef Name="MAKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SINHVIEN_LOP">
+    <End Role="LOP" Type="Self.LOP" Multiplicity="0..1" />
+    <End Role="SINHVIEN" Type="Self.SINHVIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOP">
+        <PropertyRef Name="MALOP" />
+      </Principal>
+      <Dependent Role="SINHVIEN">
+        <PropertyRef Name="MALOP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="THITRACNGHIEMEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BANGDIEMs" EntityType="Self.BANGDIEM" />
+    <EntitySet Name="BODEs" EntityType="Self.BODE" />
+    <EntitySet Name="COSOes" EntityType="Self.COSO" />
+    <EntitySet Name="CT_BAITHI" EntityType="Self.CT_BAITHI" />
+    <EntitySet Name="GIAOVIENs" EntityType="Self.GIAOVIEN" />
+    <EntitySet Name="GIAOVIEN_DANGKY" EntityType="Self.GIAOVIEN_DANGKY" />
+    <EntitySet Name="KHOAs" EntityType="Self.KHOA" />
+    <EntitySet Name="LOPs" EntityType="Self.LOP" />
+    <EntitySet Name="MONHOCs" EntityType="Self.MONHOC" />
+    <EntitySet Name="SINHVIENs" EntityType="Self.SINHVIEN" />
+    <AssociationSet Name="FK_BANGDIEM_MONHOC" Association="Self.FK_BANGDIEM_MONHOC">
+      <End Role="MONHOC" EntitySet="MONHOCs" />
+      <End Role="BANGDIEM" EntitySet="BANGDIEMs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BANGDIEM_SINHVIEN" Association="Self.FK_BANGDIEM_SINHVIEN">
+      <End Role="SINHVIEN" EntitySet="SINHVIENs" />
+      <End Role="BANGDIEM" EntitySet="BANGDIEMs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CT_BAITHI_BANGDIEM" Association="Self.FK_CT_BAITHI_BANGDIEM">
+      <End Role="BANGDIEM" EntitySet="BANGDIEMs" />
+      <End Role="CT_BAITHI" EntitySet="CT_BAITHI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BODE_GIAOVIEN1" Association="Self.FK_BODE_GIAOVIEN1">
+      <End Role="GIAOVIEN" EntitySet="GIAOVIENs" />
+      <End Role="BODE" EntitySet="BODEs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BODE_MONHOC1" Association="Self.FK_BODE_MONHOC1">
+      <End Role="MONHOC" EntitySet="MONHOCs" />
+      <End Role="BODE" EntitySet="BODEs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CT_BAITHI_BODE" Association="Self.FK_CT_BAITHI_BODE">
+      <End Role="BODE" EntitySet="BODEs" />
+      <End Role="CT_BAITHI" EntitySet="CT_BAITHI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KHOA_COSO" Association="Self.FK_KHOA_COSO">
+      <End Role="COSO" EntitySet="COSOes" />
+      <End Role="KHOA" EntitySet="KHOAs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GIAOVIEN_DANGKY_GIAOVIEN" Association="Self.FK_GIAOVIEN_DANGKY_GIAOVIEN">
+      <End Role="GIAOVIEN" EntitySet="GIAOVIENs" />
+      <End Role="GIAOVIEN_DANGKY" EntitySet="GIAOVIEN_DANGKY" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GIAOVIEN_KHOA" Association="Self.FK_GIAOVIEN_KHOA">
+      <End Role="KHOA" EntitySet="KHOAs" />
+      <End Role="GIAOVIEN" EntitySet="GIAOVIENs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GIAOVIEN_DANGKY_LOP" Association="Self.FK_GIAOVIEN_DANGKY_LOP">
+      <End Role="LOP" EntitySet="LOPs" />
+      <End Role="GIAOVIEN_DANGKY" EntitySet="GIAOVIEN_DANGKY" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GIAOVIEN_DANGKY_MONHOC" Association="Self.FK_GIAOVIEN_DANGKY_MONHOC">
+      <End Role="MONHOC" EntitySet="MONHOCs" />
+      <End Role="GIAOVIEN_DANGKY" EntitySet="GIAOVIEN_DANGKY" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LOP_KHOA" Association="Self.FK_LOP_KHOA">
+      <End Role="KHOA" EntitySet="KHOAs" />
+      <End Role="LOP" EntitySet="LOPs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SINHVIEN_LOP" Association="Self.FK_SINHVIEN_LOP">
+      <End Role="LOP" EntitySet="LOPs" />
+      <End Role="SINHVIEN" EntitySet="SINHVIENs" />
+    </AssociationSet>
+    <FunctionImport Name="SP_DANGNHAP" ReturnType="Collection(THITRACNGHIEMModel.SP_DANGNHAP_Result)">
+      <Parameter Name="TENLOGIN" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_DSLOGIN" ReturnType="Collection(THITRACNGHIEMModel.SP_DSLOGIN_Result)" />
+    <FunctionImport Name="SP_DSSV_LOP" ReturnType="Collection(THITRACNGHIEMModel.SP_DSSV_LOP_Result)">
+      <Parameter Name="MALOP" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="SP_DANGNHAP_Result">
+    <Property Type="String" Name="USERNAME" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="HOTEN" Nullable="true" MaxLength="81" />
+    <Property Type="String" Name="NAME" Nullable="false" MaxLength="128" />
+  </ComplexType>
+  <ComplexType Name="SP_DSLOGIN_Result">
+    <Property Type="String" Name="MANV" Nullable="false" MaxLength="128" />
+    <Property Type="String" Name="Loginname" Nullable="false" MaxLength="128" />
+    <Property Type="String" Name="rolename" Nullable="false" MaxLength="128" />
+  </ComplexType>
+  <ComplexType Name="SP_DSSV_LOP_Result">
+    <Property Type="String" Name="MASV" Nullable="false" MaxLength="8" />
+    <Property Type="String" Name="HO" Nullable="true" MaxLength="40" />
+    <Property Type="String" Name="TEN" Nullable="true" MaxLength="10" />
+    <Property Type="DateTime" Name="NGAYSINH" Nullable="true" Precision="23" />
+    <Property Type="String" Name="DIACHI" Nullable="true" MaxLength="40" />
+    <Property Type="String" Name="MALOP" Nullable="true" MaxLength="8" />
+    <Property Type="String" Name="TENLOP" Nullable="false" MaxLength="40" />
+  </ComplexType>
+</Schema>

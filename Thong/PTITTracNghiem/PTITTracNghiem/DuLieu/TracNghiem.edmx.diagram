@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ad6b29d6b08e4e3c829f18977fc7cab4" Name="Diagram1">
+        <EntityTypeShape EntityType="TRACNGHIEMModel.BANGDIEM" Width="1.5" PointX="3" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TRACNGHIEMModel.BODE" Width="1.5" PointX="6" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TRACNGHIEMModel.COSO" Width="1.5" PointX="1.5" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TRACNGHIEMModel.CT_BAITHI" Width="1.5" PointX="8.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TRACNGHIEMModel.GIAOVIEN" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TRACNGHIEMModel.GIAOVIEN_DANGKY" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TRACNGHIEMModel.KHOA" Width="1.5" PointX="1.5" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TRACNGHIEMModel.LOP" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="TRACNGHIEMModel.MONHOC" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="TRACNGHIEMModel.SINHVIEN" Width="1.5" PointX="0.75" PointY="19.625" IsExpanded="true" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_BANGDIEM_MONHOC" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_BANGDIEM_SINHVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_CT_BAITHI_BANGDIEM" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_BODE_GIAOVIEN1" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_BODE_MONHOC1" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_CT_BAITHI_BODE" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_KHOA_COSO" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_GIAOVIEN_DANGKY_GIAOVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_GIAOVIEN_KHOA" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_GIAOVIEN_DANGKY_LOP" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_GIAOVIEN_DANGKY_MONHOC" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_LOP_KHOA" ManuallyRouted="false" />
+        <AssociationConnector Association="TRACNGHIEMModel.FK_SINHVIEN_LOP" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

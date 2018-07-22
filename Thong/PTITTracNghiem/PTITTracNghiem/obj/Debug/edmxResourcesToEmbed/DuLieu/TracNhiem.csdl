@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TRACNGHIEMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BangDiem">
+    <Key>
+      <PropertyRef Name="MASV" />
+      <PropertyRef Name="MAMH" />
+      <PropertyRef Name="LAN" />
+    </Key>
+    <Property Name="MASV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MAMH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="LAN" Type="Int16" Nullable="false" />
+    <Property Name="NGAYTHI" Type="DateTime" Precision="3" />
+    <Property Name="DIEM" Type="Double" />
+    <Property Name="BAITHI" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="MonHoc" Relationship="Self.FK_BANGDIEM_MONHOC" FromRole="BangDiem" ToRole="MonHoc" />
+    <NavigationProperty Name="SinhVien" Relationship="Self.FK_BANGDIEM_SINHVIEN1" FromRole="BangDiem" ToRole="SinhVien" />
+  </EntityType>
+  <EntityType Name="BoDe">
+    <Key>
+      <PropertyRef Name="CAUHOI" />
+    </Key>
+    <Property Name="CAUHOI" Type="Int32" Nullable="false" />
+    <Property Name="MAMH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <Property Name="TRINHDO" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="NOIDUNG" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="A" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="B" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="C" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="D" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DAP_AN" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="MAGV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="GiaoVien" Relationship="Self.FK_BODE_GIAOVIEN" FromRole="BoDe" ToRole="GiaoVien" />
+    <NavigationProperty Name="MonHoc" Relationship="Self.FK_BODE_MONHOC" FromRole="BoDe" ToRole="MonHoc" />
+  </EntityType>
+  <EntityType Name="GiaoVien">
+    <Key>
+      <PropertyRef Name="MAGV" />
+    </Key>
+    <Property Name="MAGV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="HO" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="TEN" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="DIACHI" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SODTLL" Type="String" MaxLength="12" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="BoDes" Relationship="Self.FK_BODE_GIAOVIEN" FromRole="GiaoVien" ToRole="BoDe" />
+    <NavigationProperty Name="GVDangKies" Relationship="Self.FK_GIAOVIEN_DANGKY_GIAOVIEN1" FromRole="GiaoVien" ToRole="GVDangKy" />
+  </EntityType>
+  <EntityType Name="GVDangKy">
+    <Key>
+      <PropertyRef Name="MAMH" />
+      <PropertyRef Name="MALOP" />
+      <PropertyRef Name="LAN" />
+    </Key>
+    <Property Name="MAGV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <Property Name="MAMH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MALOP" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TRINHDO" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="NGAYTHI" Type="DateTime" Precision="3" />
+    <Property Name="LAN" Type="Int16" Nullable="false" />
+    <Property Name="SOCAUTHI" Type="Int16" />
+    <Property Name="THOIGIAN" Type="Int16" />
+    <NavigationProperty Name="GiaoVien" Relationship="Self.FK_GIAOVIEN_DANGKY_GIAOVIEN1" FromRole="GVDangKy" ToRole="GiaoVien" />
+    <NavigationProperty Name="Lop" Relationship="Self.FK_GIAOVIEN_DANGKY_LOP" FromRole="GVDangKy" ToRole="Lop" />
+    <NavigationProperty Name="MonHoc" Relationship="Self.FK_GIAOVIEN_DANGKY_MONHOC1" FromRole="GVDangKy" ToRole="MonHoc" />
+  </EntityType>
+  <EntityType Name="Lop">
+    <Key>
+      <PropertyRef Name="MALOP" />
+    </Key>
+    <Property Name="MALOP" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENLOP" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="GVDangKies" Relationship="Self.FK_GIAOVIEN_DANGKY_LOP" FromRole="Lop" ToRole="GVDangKy" />
+    <NavigationProperty Name="SinhViens" Relationship="Self.FK_SINHVIEN_LOP" FromRole="Lop" ToRole="SinhVien" />
+  </EntityType>
+  <EntityType Name="MonHoc">
+    <Key>
+      <PropertyRef Name="MAMH" />
+    </Key>
+    <Property Name="MAMH" Type="String" MaxLength="5" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENMH" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="BangDiems" Relationship="Self.FK_BANGDIEM_MONHOC" FromRole="MonHoc" ToRole="BangDiem" />
+    <NavigationProperty Name="BoDes" Relationship="Self.FK_BODE_MONHOC" FromRole="MonHoc" ToRole="BoDe" />
+    <NavigationProperty Name="GVDangKies" Relationship="Self.FK_GIAOVIEN_DANGKY_MONHOC1" FromRole="MonHoc" ToRole="GVDangKy" />
+  </EntityType>
+  <EntityType Name="SinhVien">
+    <Key>
+      <PropertyRef Name="MASV" />
+    </Key>
+    <Property Name="MASV" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="HO" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="TEN" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NGAYSINH" Type="DateTime" Precision="3" />
+    <Property Name="DIACHI" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="MALOP" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="BangDiems" Relationship="Self.FK_BANGDIEM_SINHVIEN1" FromRole="SinhVien" ToRole="BangDiem" />
+    <NavigationProperty Name="Lop" Relationship="Self.FK_SINHVIEN_LOP" FromRole="SinhVien" ToRole="Lop" />
+  </EntityType>
+  <Association Name="FK_BANGDIEM_MONHOC">
+    <End Role="MonHoc" Type="Self.MonHoc" Multiplicity="1" />
+    <End Role="BangDiem" Type="Self.BangDiem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MonHoc">
+        <PropertyRef Name="MAMH" />
+      </Principal>
+      <Dependent Role="BangDiem">
+        <PropertyRef Name="MAMH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BANGDIEM_SINHVIEN1">
+    <End Role="SinhVien" Type="Self.SinhVien" Multiplicity="1" />
+    <End Role="BangDiem" Type="Self.BangDiem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SinhVien">
+        <PropertyRef Name="MASV" />
+      </Principal>
+      <Dependent Role="BangDiem">
+        <PropertyRef Name="MASV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BODE_GIAOVIEN">
+    <End Role="GiaoVien" Type="Self.GiaoVien" Multiplicity="0..1" />
+    <End Role="BoDe" Type="Self.BoDe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GiaoVien">
+        <PropertyRef Name="MAGV" />
+      </Principal>
+      <Dependent Role="BoDe">
+        <PropertyRef Name="MAGV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BODE_MONHOC">
+    <End Role="MonHoc" Type="Self.MonHoc" Multiplicity="0..1" />
+    <End Role="BoDe" Type="Self.BoDe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MonHoc">
+        <PropertyRef Name="MAMH" />
+      </Principal>
+      <Dependent Role="BoDe">
+        <PropertyRef Name="MAMH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GIAOVIEN_DANGKY_GIAOVIEN1">
+    <End Role="GiaoVien" Type="Self.GiaoVien" Multiplicity="0..1" />
+    <End Role="GVDangKy" Type="Self.GVDangKy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GiaoVien">
+        <PropertyRef Name="MAGV" />
+      </Principal>
+      <Dependent Role="GVDangKy">
+        <PropertyRef Name="MAGV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GIAOVIEN_DANGKY_LOP">
+    <End Role="Lop" Type="Self.Lop" Multiplicity="1" />
+    <End Role="GVDangKy" Type="Self.GVDangKy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lop">
+        <PropertyRef Name="MALOP" />
+      </Principal>
+      <Dependent Role="GVDangKy">
+        <PropertyRef Name="MALOP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_GIAOVIEN_DANGKY_MONHOC1">
+    <End Role="MonHoc" Type="Self.MonHoc" Multiplicity="1" />
+    <End Role="GVDangKy" Type="Self.GVDangKy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MonHoc">
+        <PropertyRef Name="MAMH" />
+      </Principal>
+      <Dependent Role="GVDangKy">
+        <PropertyRef Name="MAMH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SINHVIEN_LOP">
+    <End Role="Lop" Type="Self.Lop" Multiplicity="0..1" />
+    <End Role="SinhVien" Type="Self.SinhVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lop">
+        <PropertyRef Name="MALOP" />
+      </Principal>
+      <Dependent Role="SinhVien">
+        <PropertyRef Name="MALOP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TRACNGHIEMEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BangDiems" EntityType="Self.BangDiem" />
+    <EntitySet Name="BoDes" EntityType="Self.BoDe" />
+    <EntitySet Name="GiaoViens" EntityType="Self.GiaoVien" />
+    <EntitySet Name="GVDangKies" EntityType="Self.GVDangKy" />
+    <EntitySet Name="Lops" EntityType="Self.Lop" />
+    <EntitySet Name="MonHocs" EntityType="Self.MonHoc" />
+    <EntitySet Name="SinhViens" EntityType="Self.SinhVien" />
+    <AssociationSet Name="FK_BANGDIEM_MONHOC" Association="Self.FK_BANGDIEM_MONHOC">
+      <End Role="MonHoc" EntitySet="MonHocs" />
+      <End Role="BangDiem" EntitySet="BangDiems" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BANGDIEM_SINHVIEN1" Association="Self.FK_BANGDIEM_SINHVIEN1">
+      <End Role="SinhVien" EntitySet="SinhViens" />
+      <End Role="BangDiem" EntitySet="BangDiems" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BODE_GIAOVIEN" Association="Self.FK_BODE_GIAOVIEN">
+      <End Role="GiaoVien" EntitySet="GiaoViens" />
+      <End Role="BoDe" EntitySet="BoDes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BODE_MONHOC" Association="Self.FK_BODE_MONHOC">
+      <End Role="MonHoc" EntitySet="MonHocs" />
+      <End Role="BoDe" EntitySet="BoDes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GIAOVIEN_DANGKY_GIAOVIEN1" Association="Self.FK_GIAOVIEN_DANGKY_GIAOVIEN1">
+      <End Role="GiaoVien" EntitySet="GiaoViens" />
+      <End Role="GVDangKy" EntitySet="GVDangKies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GIAOVIEN_DANGKY_LOP" Association="Self.FK_GIAOVIEN_DANGKY_LOP">
+      <End Role="Lop" EntitySet="Lops" />
+      <End Role="GVDangKy" EntitySet="GVDangKies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_GIAOVIEN_DANGKY_MONHOC1" Association="Self.FK_GIAOVIEN_DANGKY_MONHOC1">
+      <End Role="MonHoc" EntitySet="MonHocs" />
+      <End Role="GVDangKy" EntitySet="GVDangKies" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SINHVIEN_LOP" Association="Self.FK_SINHVIEN_LOP">
+      <End Role="Lop" EntitySet="Lops" />
+      <End Role="SinhVien" EntitySet="SinhViens" />
+    </AssociationSet>
+    <FunctionImport Name="SP_DSLOGIN" ReturnType="Collection(TRACNGHIEMModel.SP_DSLOGIN_Result)" />
+    <FunctionImport Name="SP_DSSV_LOP" ReturnType="Collection(TRACNGHIEMModel.SP_DSSV_LOP_Result)">
+      <Parameter Name="MALOP" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_STT_BACKUP" ReturnType="Collection(TRACNGHIEMModel.SP_STT_BACKUP_Result)" />
+    <FunctionImport Name="SP_TAOTAIKHOAN">
+      <Parameter Name="LGNAME" Mode="In" Type="String" />
+      <Parameter Name="PASS" Mode="In" Type="String" />
+      <Parameter Name="USERNAME" Mode="In" Type="String" />
+      <Parameter Name="ROLE" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SP_TENGV" ReturnType="Collection(TRACNGHIEMModel.SP_TENGV_Result)" />
+    <FunctionImport Name="SP_TENSV" ReturnType="Collection(TRACNGHIEMModel.SP_TENSV_Result)" />
+  </EntityContainer>
+  <ComplexType Name="SP_DSLOGIN_Result">
+    <Property Type="String" Name="MANV" Nullable="false" MaxLength="128" />
+    <Property Type="String" Name="Loginname" Nullable="false" MaxLength="128" />
+    <Property Type="String" Name="rolename" Nullable="false" MaxLength="128" />
+  </ComplexType>
+  <ComplexType Name="SP_DSSV_LOP_Result">
+    <Property Type="String" Name="MASV" Nullable="false" MaxLength="8" />
+    <Property Type="String" Name="HO" Nullable="true" MaxLength="40" />
+    <Property Type="String" Name="TEN" Nullable="true" MaxLength="10" />
+    <Property Type="DateTime" Name="NGAYSINH" Nullable="true" Precision="23" />
+    <Property Type="String" Name="DIACHI" Nullable="true" MaxLength="40" />
+    <Property Type="String" Name="MALOP" Nullable="true" MaxLength="8" />
+    <Property Type="String" Name="TENLOP" Nullable="false" MaxLength="40" />
+  </ComplexType>
+  <ComplexType Name="SP_STT_BACKUP_Result">
+    <Property Type="Int32" Name="position" Nullable="true" />
+    <Property Type="DateTime" Name="backup_start_date" Nullable="true" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="SP_TENGV_Result">
+    <Property Type="String" Name="HOTEN" Nullable="true" MaxLength="81" />
+    <Property Type="String" Name="MAGV" Nullable="false" MaxLength="8" />
+  </ComplexType>
+  <ComplexType Name="SP_TENSV_Result">
+    <Property Type="String" Name="HOTEN" Nullable="true" MaxLength="51" />
+    <Property Type="String" Name="MASV" Nullable="false" MaxLength="8" />
+  </ComplexType>
+</Schema>

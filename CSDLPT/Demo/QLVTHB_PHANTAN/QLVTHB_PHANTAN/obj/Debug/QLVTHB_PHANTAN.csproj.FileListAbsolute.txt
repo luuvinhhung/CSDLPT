@@ -1,0 +1,12 @@
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\bin\Debug\QLVTHB_PHANTAN.exe.config
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\bin\Debug\QLVTHB_PHANTAN.exe
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\bin\Debug\QLVTHB_PHANTAN.pdb
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\obj\Debug\QLVTHB_PHANTAN.csprojResolveAssemblyReference.cache
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\obj\Debug\QLVTHB_PHANTAN.frmMain.resources
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\obj\Debug\QLVTHB_PHANTAN.frmDangnhap.resources
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\obj\Debug\QLVTHB_PHANTAN.frmNhanvien.resources
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\obj\Debug\QLVTHB_PHANTAN.Properties.Resources.resources
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\obj\Debug\QLVTHB_PHANTAN.csproj.GenerateResource.Cache
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\obj\Debug\QLVTHB_PHANTAN.exe.licenses
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\obj\Debug\QLVTHB_PHANTAN.exe
+C:\Users\vaio\Documents\Visual Studio 2010\Projects\QLVTHB_PHANTAN\QLVTHB_PHANTAN\obj\Debug\QLVTHB_PHANTAN.pdb
